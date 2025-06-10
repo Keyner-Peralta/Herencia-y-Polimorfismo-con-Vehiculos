@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Herencia_y_Polimorfismo_con_Vehículos/1.0.0": {
+        "runtime": {
+          "Herencia_y_Polimorfismo_con_Vehículos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Herencia_y_Polimorfismo_con_Vehículos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
